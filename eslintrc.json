@@ -1,0 +1,7 @@
+{
+  "extends": ["@roctseat/eslint-config/react"],
+  "plugins": ["simple-import-sort"],
+  "rules": {
+    "simple-import-sort/imports": "error"
+  }
+}
