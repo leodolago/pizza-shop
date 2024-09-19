@@ -1,2 +1,5 @@
 node_modules
 dist
+.env.local
+pizzashop-api/node_modules
+pizzashop-api/.env.local
